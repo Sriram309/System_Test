@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-28T20:30:40 IST" name="Suite" finished-at="2025-03-28T20:33:21 IST" duration-ms="161230">
+    <groups>
+    </groups>
+    <test started-at="2025-03-28T20:30:40 IST" name="Test" finished-at="2025-03-28T20:33:21 IST" duration-ms="161230">
+      <class name="tests.TestSteps">
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:tests.TestSteps@57bc27f5]" started-at="2025-03-28T20:30:40 IST" name="beforeMethod" finished-at="2025-03-28T20:30:59 IST" duration-ms="19290" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="LoginWithDifferentUser()[pri:0, instance:tests.TestSteps@57bc27f5]" started-at="2025-03-28T20:31:00 IST" name="LoginWithDifferentUser" finished-at="2025-03-28T20:31:24 IST" duration-ms="24863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithDifferentUser -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.TestSteps@57bc27f5]" started-at="2025-03-28T20:31:24 IST" name="afterMethod" finished-at="2025-03-28T20:31:26 IST" duration-ms="1858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:tests.TestSteps@57bc27f5]" started-at="2025-03-28T20:31:26 IST" name="beforeMethod" finished-at="2025-03-28T20:31:51 IST" duration-ms="24358" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test2(java.lang.String,java.lang.String,java.lang.String,int,int,int,java.lang.String,java.lang.String)[pri:0, instance:tests.TestSteps@57bc27f5]" started-at="2025-03-28T20:31:51 IST" name="Test2" data-provider="ProductDetail" finished-at="2025-03-28T20:32:13 IST" duration-ms="22573" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TRULANCE]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Virtual In Office]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[PT]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[10:00 AM]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.TestSteps@57bc27f5]" started-at="2025-03-28T20:32:13 IST" name="afterMethod" finished-at="2025-03-28T20:32:15 IST" duration-ms="1473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:tests.TestSteps@57bc27f5]" started-at="2025-03-28T20:32:15 IST" name="beforeMethod" finished-at="2025-03-28T20:32:53 IST" duration-ms="38186" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test3()[pri:0, instance:tests.TestSteps@57bc27f5]" started-at="2025-03-28T20:32:53 IST" name="Test3" finished-at="2025-03-28T20:33:20 IST" duration-ms="27093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.TestSteps@57bc27f5]" started-at="2025-03-28T20:33:20 IST" name="afterMethod" finished-at="2025-03-28T20:33:21 IST" duration-ms="1216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.TestSteps -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
